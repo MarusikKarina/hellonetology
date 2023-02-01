@@ -1,4 +1,5 @@
 public class Main {
+
     public static void main(String[] args) {
         int eaters = 5;
 
@@ -13,4 +14,5 @@ public class Main {
         System.out.println((chicken / eaters) + " куриных(ое) бёдер(ро)");
         System.out.println((spices / eaters) + " ложек(ка) специй");
     }
+
 }
